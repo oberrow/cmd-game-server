@@ -8,3 +8,5 @@
 ### 5. Do option 5
 ### 6. Enter localhost:100
 ### Make sure the world isn't empty so you know if the software works (it is in alpha phases so probably not)
+## **NOTES**
+### The alpha versions will only be in debug builds
